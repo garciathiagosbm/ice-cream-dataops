@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: Workflow that creates the asset hierarchy, contextualizes time series to assets,extracts datapoints from the Ice Cream API, and generates OEE time series.
